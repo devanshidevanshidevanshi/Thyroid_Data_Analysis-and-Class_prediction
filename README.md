@@ -15,5 +15,3 @@ Methodology used for analysis and prediction:
 6) Algorithms for making predictions were : XGBoost, Decision Tree classifier, Support Vector Classifier
 7) Decision Tree Classifier was the most accurate (99.6%)
 8) Confusion matrix was plotted for the same
-9) 
-10) 
